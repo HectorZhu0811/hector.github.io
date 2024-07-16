@@ -1,5 +1,5 @@
 ---
-title: "🧩 标签"
+title: "🧩 Life"
 layout: tags
 summary: tags
 ---

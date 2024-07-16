@@ -1,8 +1,8 @@
 ---
-title: "Read"
-date: 2022-05-05T00:18:06+08:00
-lastmod: 2022-05-05T00:18:06+08:00
-author: ["Sulv"]
+title: "最近我"
+date: 2024-06-25T00:18:06+08:00
+lastmod: 2024-05-05T00:18:06+08:00
+author: ["Hector"]
 keywords: 
 - 
 categories: 
@@ -14,7 +14,7 @@ weight:
 slug: ""
 draft: false # 是否为草稿
 comments: true
-reward: true # 打赏
+reward: false # 打赏
 mermaid: true #是否开启mermaid
 showToc: true # 显示目录
 TocOpen: true # 自动展开目录
@@ -28,6 +28,9 @@ cover:
     relative: false
 ---
 
-
+最近在读
+《普通心理学》  
+![](/img/psychology.jpg)
+想了解人的运行原理和规则
 
 

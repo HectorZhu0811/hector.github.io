@@ -1,20 +1,20 @@
 ---
-title: "Life"
-date: 2022-05-05T00:18:15+08:00
+title: "2023观影记录"
+date: 2023-12-31T00:18:15+08:00
 lastmod: 2022-05-05T00:18:15+08:00
-author: ["Sulv"]
+author: ["Hector"]
 keywords: 
 - 
 categories: 
 - 
 tags: 
 - life
-description: ""
+description: "有(；′⌒`)"
 weight:
 slug: ""
 draft: false # 是否为草稿
 comments: true
-reward: true # 打赏
+reward: false # 打赏
 mermaid: true #是否开启mermaid
 showToc: true # 显示目录
 TocOpen: true # 自动展开目录
@@ -27,7 +27,6 @@ cover:
     alt: ""
     relative: false
 ---
-
-
-
+<font color =FF8247 size = "5" face = "微软雅黑">2023观影记录</font>
+![](/img/2023观影记录.jpg)
 
