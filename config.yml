@@ -1,6 +1,6 @@
-baseURL: https://xyming108.github.io/ # 绑定的域名
+baseURL: https://hectorzhu.github.io/ # 绑定的域名
 languageCode: zh # en-us
-title: Sulv's Blog
+title: Hector's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -13,7 +13,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics:  # 谷歌统计
-# Copyright: Sulv
+# Copyright: Hector
 
 paginate: 15    # 首页每页显示的文章数
 summaryLength: 140 # 文章概览的自字数，默认70
@@ -40,9 +40,13 @@ menu:
       url: /
       weight: 2
     - identifier: posts
-      name: 📚 文章
+      name: 🕶️ 娱乐
       url: posts
       weight: 3
+    - identifier: career
+      name: 🖥️ 工作
+      url: career
+      weight: 4
     - identifier: tags
       name: 🧩 标签
       url: tags
@@ -52,13 +56,13 @@ menu:
       url: archives/
       weight: 20
     - identifier: about
-      name: 🙋🏻‍♂️ 关于
-      url: about
+      name: 🙋🏻‍♂️ 简历
       weight: 50
-    - identifier: links
-      name: 🤝 友链
-      url: links
-      weight: 60
+      url: "img/Hector.pdf"
+    # - identifier: links
+    #   name: 🤝 友链
+    #   url: links
+    #   weight: 60
 
 outputs:
   home:
@@ -69,8 +73,8 @@ outputs:
 # 这里的参数会被代码以 .Site.Params 的形式读取
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: ""
-  author: Sulv
+  description: "不知道显示在哪"
+  author: Hector
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto  # defaultTheme: light or  dark
@@ -97,46 +101,44 @@ params:
 
   profileMode:
     enabled: true
-    title: (〃'▽'〃)
-    subtitle:
-    # subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>👇联系方式"
-    imageUrl: "img/Q.gif"
+    title: 🏹Challenge Accepted
+    subtitle: 
+
+    imageUrl: "img/A.jpg"
     imageTitle:
-    imageWidth: 150
-    imageHeight: 150
+    imageWidth: 600
+    imageHeight: 600
     buttons:
-      - name: 🧱 建站
-        url: posts/blog
-      - name: 👨🏻‍💻 技术
-        url: posts/tech
-      - name: 📕 阅读
-        url: posts/read
-      - name: 🏖 生活
-        url: posts/life
+      - name: 🧙 ENFP
+        url: "https://www.16personalities.com/enfp-personality" #在新的标签页打开
+        imageurl: "img/enfp.png"
+      - name: 🦁 狮子座
+      - name: 🎇 桌游爱好者
+      - name: 💕 Love cures all
 
   socialIcons:
     - name: github
-      url: "https://github.com/xyming108"
-    - name: twitter
-      url: "img/twitter.png"
-    - name: facebook
-      url: "https://www.facebook.com/profile.php?id=100027782410997"
-    - name: instagram
-      url: "img/instagram.png"
-    - name: QQ
-      url: "img/qq.png"
+      url: "https://github.com/HectorZhu0811"
+    # - name: twitter
+    #   url: "img/twitter.png"
+    # - name: facebook
+    #   url: "https://www.facebook.com/profile.php?id=100027782410997"
+    # - name: instagram
+    #   url: "img/instagram.png"
+    # - name: QQ
+    #   url: "img/qq.png"
     - name: WeChat
-      url: "img/wechat.png"
+      url: "img/wechat.jpg"
     - name: bilibili
-      url: "https://space.bilibili.com/234461224"
+      url: "https://space.bilibili.com/448065/"
     - name: email
-      url: "mailto:1931559710@qq.com"
+      url: "hectorzhu980@gmail.com"
     - name: RSS
       url: "index.xml"
 
   label: # 左上角图标
-    text: "Sulv's Blog"
-    icon: "img/Q.gif"
+    text: "Hector's Blog"
+    icon: "img/A.jpg"
     iconHeight: 35
 
   analytics:
@@ -144,11 +146,11 @@ params:
       SiteVerificationTag: ""
 
   assets:
-    favicon: "img/Q.gif"
-    favicon16x16: "img/Q.gif"
-    favicon32x32: "img/Q.gif"
-    apple_touch_icon: "img/Q.gif"
-    safari_pinned_tab: "img/Q.gif"
+    favicon: "img/A.jpg"
+    favicon16x16: "img/A.jpg"
+    favicon32x32: "img/A.jpg"
+    apple_touch_icon: "img/A.jpg"
+    safari_pinned_tab: "img/A.jpg"
     disableFingerprinting: true # 禁用指纹
 
   cover:
@@ -165,12 +167,12 @@ params:
     minMatchCharLength: 0
     keys: [ "title", "permalink", "summary" ]
 
-  StartYear: 2020 # 底部开始年份
-  FilingNo: 填写自己的备案号 # 底部备案号
-  PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
-  PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号
+  StartYear: 2024 # 底部开始年份
+  # FilingNo: 填写自己的备案号 # 底部备案号
+  # PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
+  # PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号
 
-  Reward: true #打赏是否开启
+  Reward: false #打赏是否开启
   # 打赏微信图片地址，
   # 可用绝对和相对地址，相对地址的图片需放在static/img下，
   # 填写格式为img/wechat_pay.png
