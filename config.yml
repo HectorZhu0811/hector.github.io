@@ -1,4 +1,4 @@
-baseURL: https://hectorzhu.github.io/ # 绑定的域名
+baseURL: https://hectorzhu0811.github.io/hector.github.io/ # 绑定的域名
 languageCode: zh # en-us
 title: Hector's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
