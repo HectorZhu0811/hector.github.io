@@ -28,5 +28,5 @@ cover:
     relative: false
 ---
 <font color =FF8247 size = "5" face = "微软雅黑">2023观影记录</font>
-![](https://github.com/HectorZhu0811/hector.github.io/blob/main/static/img/2023%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95.jpg)
+![2023观影记录](https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/2023%E8%A7%82%E5%BD%B1%E8%AE%B0%E5%BD%95.jpg)
 
