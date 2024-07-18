@@ -29,7 +29,7 @@ cover:
 ## 因为太爱玩桌游，自己设计了一款
 ---
 <font color =FF8247 size = "5" face = "微软雅黑">因为太爱玩桌游，自己设计了一款</font>
-![](card.jpg)
+![chat club](https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/content/posts/board games/card.jpg)
 >   是一个适合和朋友深度聊天的桌游。
 >
 >   其实更爱的是在游戏过程中，和朋友之间的互动。所以这款桌游的核心是聊天，而不是游戏规则。
