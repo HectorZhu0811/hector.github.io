@@ -37,4 +37,4 @@ cover:
 </font>  
 
 <font color =0000 size = "4" face = "微软雅黑">自己有一个理论，所有人初始状态都是ENFP（想想小孩子天真浪漫的松弛状态），随着成长的压力，人情的冷暖，慢慢的变得现实，趋于理性，讲究效率，甚至不敢表达，企图用外部刺激来让自己再活一次。但是如果可以，愿你可以勇敢的做最初的彩色的自己，失败只会让你更加强大，否则那就不是你了，不是嘛？</font>  
-![](/img/enfp-istj.jpg)
+![](https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/enfp-istj.jpg)
