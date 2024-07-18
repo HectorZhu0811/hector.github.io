@@ -5,7 +5,8 @@ layout: links
 ## 昕诺飞-产品经理 
 2024.03 - 至今 <img alt = "昕诺飞" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Signify.png width=100 align= "center" />
 产品开发：[奇想灯](https://www.canva.cn/design/DAGFAHgIQIY/FEX_YpVyWcsUI9kTMfjlPg/view?utm_content=DAGFAHgIQIY&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
-<iframe height=598 width=1210 title = "产品开发" src="https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf" > </iframe>
+<iframe height=598 width=1210 title = "产品开发" src="https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf" > </iframe>  
+
 {{< ppt src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf&embedded=true" >}}
 
 ## 哈啰出行-数据运营
