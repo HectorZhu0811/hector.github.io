@@ -5,7 +5,6 @@ layout: links
 ## 昕诺飞-产品经理 
 2024.03 - 至今 <img alt = "昕诺飞" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Signify.png width=100 align= "center" />
 产品开发：[奇想灯](https://www.canva.cn/design/DAGFAHgIQIY/FEX_YpVyWcsUI9kTMfjlPg/view?utm_content=DAGFAHgIQIY&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
-<iframe height=598 width=1210 title = "产品开发" src="https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf" > </iframe>  
 
 {{< ppt src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf&embedded=true" >}}
 
@@ -16,3 +15,9 @@ layout: links
 
 ## 迅销  -管培生
 2020.07 - 2020.11 <img alt = "迅销" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Uniqlo.png width=100 align= "center" />
+
+## Affinity Gaming - Inspector
+2018.06 - 2018.09  
+
+## 新东方优能中学 - 助教
+2016.09 - 2018.03
