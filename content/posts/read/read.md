@@ -30,7 +30,7 @@ cover:
 
 最近在读
 《普通心理学》  
-![](/img/psychology.jpg)
+![](https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/psychology.jpg)
 > 想了解人的运行原理和规则
 Games have their rules
 Nature has its rules
