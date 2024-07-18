@@ -17,7 +17,7 @@ layout: links
 2020.07 - 2020.11 <img alt = "迅销" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Uniqlo.png width=50 align= "center" />
 
 ## Affinity Gaming - Inspector  📍Las Vegas
-2018.06 - 2018.09  
+2018.06 - 2018.09  <img alt = "Affinity" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/gaming.jpg width=100 align= "center" />
 
 ## 新东方优能中学 - 助教  📍江苏镇江
-2016.09 - 2018.03
+2016.09 - 2018.03  <img alt = "XDF" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/xdf.jpg width=100 align= "center" />
