@@ -14,7 +14,7 @@ layout: links
 {{< ppt src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/NPS.pdf&embedded=true" >}}
 
 ## 迅销  -管培生
-2020.07 - 2020.11 <img alt = "迅销" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Uniqlo.png width=100 align= "center" />
+2020.07 - 2020.11 <img alt = "迅销" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Uniqlo.png width=50 align= "center" />
 
 ## Affinity Gaming - Inspector
 2018.06 - 2018.09  
