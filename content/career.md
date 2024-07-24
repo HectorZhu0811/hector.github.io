@@ -10,7 +10,7 @@ layout: links
 
 ## 哈啰出行-数据运营  📍上海
 2023.06 - 2023.12 <img alt = "哈啰" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Hello.png width=100 align= "center" />  
-数据分析——NPS异常值分析  
+数据分析——[NPS异常值分析](https://www.canva.cn/design/DAGL3BZ9JH8/lpbinumtkhBJyd3GayDFbw/view?utm_content=DAGL3BZ9JH8&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 {{< ppt src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/NPS.pdf&embedded=true" >}}
 
 ## 迅销  -管培生  📍上海-苏州
