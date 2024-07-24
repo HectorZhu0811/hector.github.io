@@ -6,7 +6,7 @@ layout: links
 2024.03 - 至今 <img alt = "昕诺飞" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Signify.png width=100 align= "center" />
 产品开发：[奇想灯](https://www.canva.cn/design/DAGFAHgIQIY/FEX_YpVyWcsUI9kTMfjlPg/view?utm_content=DAGFAHgIQIY&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 
-{{< ppt src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf&embedded=true" >}}
+{{< ppt src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Brillumination.pdf&embedded=true" >}} ## 需要能打开Google的网络
 
 ## 哈啰出行-数据运营  📍上海
 2023.06 - 2023.12 <img alt = "哈啰" src=https://raw.githubusercontent.com/HectorZhu0811/hector.github.io/main/static/img/Hello.png width=100 align= "center" />  
